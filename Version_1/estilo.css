@@ -1,0 +1,257 @@
+/*
+* { outline: 2px dotted red; }
+* * { outline: 2px dotted green; }
+* * * { outline: 2px dotted orange; }
+* * * * { outline: 2px dotted blue; }
+* * * * * { outline: 1px solid red; }
+* * * * * * { outline: 1px solid green; }
+* * * * * * * { outline: 1px solid orange; }
+* * * * * * * * { outline: 1px solid blue; }
+/*
+
+
+/* CSS Document */
+body { 
+       margin:0 auto;
+       background-color:#CCCCCC;
+       background-image:url(fondo.gif); 
+	   }
+
+
+
+p {
+font-family:Arial, Helvetica, sans-serif;
+size:5px;
+text-align:center;
+}
+
+a { color:#0099ff;
+    font-size:14px;
+	}
+
+a:link { color:#00ffff;
+}
+
+a:hover { color:#00ccff;
+}
+ 
+ul { list-style-type: none;
+     margin:0;
+     padding:0;   
+}
+
+.clearfix{
+clear:both;
+}
+#contenedor{
+width:900px;
+background-color:#F4E3BD;
+margin:0 auto;
+}
+#noticias li {
+        margin:auto;
+	    
+        color:#FFFFFF;
+		font-size:18px;
+		text-align:left;
+		
+	     		
+}
+
+#noticias li a {
+       margin:0 auto;
+       border:1px solid #FFFFFF;
+       color:#FFFFFF;
+       width:200px;
+       padding:0;
+       background-color:#66CCFF;
+       display:block;
+       text-decoration:none;
+	   height:20px;
+	       
+       
+}
+
+#noticias li a:hover {
+             color:#0099FF;
+}
+
+#enlaces li{
+             margin:0;
+	         height:auto;
+             color:#FFFFFF;
+			 font-size:18px;
+			 text-align:center;
+             
+             }
+
+#enlaces li a { 
+       margin:auto;
+	   
+       padding:auto;
+       background-color:#66CCFF; 
+       text-decoration:none;
+	    
+       text-align:center; 
+       display:block;
+       color:#FFFFFF;
+       width:200px;
+       height:20px;
+       border:1px solid #FFFFFF;
+	       
+       
+}
+
+#enlaces li a:hover {
+             background-color:#FFFFFF;
+             color:#00CCFF;
+}
+
+			 
+      #baner {
+	      
+		background-color:#eeffee;  
+          width:900px;
+          height:250px;
+          margin:0 auto;
+		 
+	      padding:0;
+		  
+		  }
+
+	   #menus {  
+                    
+           width:250px;
+           height:auto;
+		   padding:0;
+		 
+		   background-color:#F4E3BD;
+		   
+		   float:left;
+		   
+           		   }
+				   
+				   
+
+#secciones {  
+
+           
+		   background-image:url(img/titlep.png);
+           background-repeat:no-repeat;  
+           width:600px;
+           
+           height:auto;
+		   padding:0;
+		
+		   float:left;
+         		   }
+
+	     #logo {
+                background-image:url(img/titlel.png);
+background-repeat:repeat-x;
+background-color:#0099FF;
+border:1px solid #FFFFFF;
+border-bottom:5px solid #FFFFFF; 
+	      		width:240px; 
+				height:auto;
+				margin:0 auto 0 auto;
+				padding:35px 0 5px 0;
+				text-align:center;
+				}
+      #noticias { 
+	  background-image:url(img/titlen.png);
+      background-repeat:repeat-x;
+      background-color:#0099FF;
+      width:240px;
+			  height:auto;
+			 border:1px solid #FFFFFF;
+			  border-bottom:5px solid #FFFFFF;
+			  color:#FFFFFF;
+			  margin:10px auto 0 auto;
+		      padding:35px 0;
+				  }
+				  .noticia{
+				  width:220;
+				  border:1px solid #00ccff;
+				  margin-bottom:5px;
+				  }
+#noticias .titulo{width:200px;}
+#noticias .imagen {width:200px;}
+color:#006666
+
+	  #contacto {
+	background-image:url(img/titlec.png);
+background-repeat:repeat-x;
+background-color:#0099FF;
+
+	  
+           
+			  width:240px;
+			  border:1px solid #FFFFFF;
+		border-bottom:5px solid #FFFFFF;     
+              height:auto; 
+	          color:#FFFFFF;
+	          margin:10px auto 0 auto;
+		      padding:35px 0 2px 0;
+			  text-align:center;
+	              }
+	   
+	   #enlaces { 
+	   background-color:#0099FF;
+background-image:url(img/titlee.png);
+background-repeat:repeat-x;
+
+
+
+                     width:240px;
+                       
+                     height:auto;
+                     border:1px solid #FFFFFF;
+					 border-bottom:5px solid #FFFFFF; 
+                     margin:10px auto 0 auto;
+                     padding:35px 0 5px 0;
+					 }
+
+     	  #principal { 
+background-image:url(img/fp.jpg);
+       width:525px;
+       height:auto;
+	   font-size:15px;
+       color:#FFFFFF;
+       border-bottom:1px solid #FFFFFF;
+ border-top:1px solid #FFFFFF;
+       padding:10px auto 10px auto;
+       margin:40px auto 10px auto;
+
+       
+	   }
+
+   .imagen { 
+         background-image:url(img/fp.jpg);
+         width:525px;
+         height:auto;
+	     border-bottom:1px solid #FFFFFF;
+         border-top:1px solid #FFFFFF;
+         padding:10px auto 10px auto;
+         margin:0 auto 10px auto;
+text-align:center;
+        }
+
+
+ 
+
+
+
+#creditos {
+        padding:0;
+		   color:#FFFFFF; 
+        	    width:900px;
+	    height:60px;
+	    margin:0 auto 50px auto;
+	  
+		}
+						  			         
+		
+
+			   
+       			 

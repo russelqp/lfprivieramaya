@@ -1,0 +1,98 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	margin:0 auto;
+	width:980px;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-seriff;
+	background-color:#CCC;
+	text-align:center;
+	}
+h1{
+	margin:0 auto;
+	text-align:right;
+}
+h2, h3, h4, h5, h6 {
+	margin:0 auto;
+	text-align:left;
+	color:#FFF;
+	padding-top:10px;
+}
+h2{
+	font-size:22px;
+}
+h3{
+	font-size:16px;
+}
+h4{
+	font-size:14px;
+}
+p{
+	width:90%;
+	text-align:justify;
+	margin:10px auto;
+}
+
+img{
+	margin:5px;
+}
+#main img{
+	float:left;
+	margin:10px;
+}
+.clear{
+	clear:both;
+}
+
+
+#container{
+	width:980px;
+	background-color:#F6E2BF;
+	border:1px solid #FFF;
+	margin:0 auto;
+}
+#header{
+	width:980px;
+	height:230px;
+	background-image:url(img/baner.jpg);
+	background-repeat:no-repeat;
+	margin:0 auto;
+}
+#sidebar1{
+	width:200px;
+	float:left;
+	background-color:#FAEEDA;
+	margin:0 2px;
+}
+#sidebar1 h3{
+	background-image:url(img/mini_top.jpg);
+	background-repeat:no-repeat;
+	width:198px;
+	height:34px;
+	margin:0 auto;
+}
+#main{
+	width:642px;
+	float:left;
+	margin:0 auto;
+	background-color:#FAEEDA;
+}
+#main h2{
+	background-image:url(img/big_top.jpg);
+	background-repeat:no-repeat;
+	width:640px;
+	height:40px;
+	margin:0 auto;
+}
+
+#sidebar2{
+	width:130px;
+	float:left;
+	background-color:#FAEEDA;
+	margin:0 2px;
+}
+#footer{
+	clear:both;
+	width:980px;
+	margin:0 auto;
+}
+

@@ -1,0 +1,204 @@
+#index-book FIELDSET {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0px
+}
+#index-book2 FIELDSET {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0px
+}
+#frm-detail FIELDSET {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0px
+}
+#index-book LEGEND {
+	FONT: 11px tahoma; COLOR: black
+}
+#index-book2 LEGEND {
+	FONT: 11px tahoma; COLOR: black
+}
+#index-book LABEL {
+	WIDTH: auto; DISPLAY: block; FONT: 11px tahoma; FLOAT: left; COLOR: black; MARGIN-RIGHT: 5px
+}
+#index-book2 LABEL {
+	WIDTH: auto; DISPLAY: block; FONT: 11px tahoma; FLOAT: left; COLOR: black; MARGIN-RIGHT: 5px
+}
+#frm-detail LABEL {
+	WIDTH: auto; DISPLAY: block; FONT: 11px tahoma; FLOAT: left; COLOR: black; MARGIN-RIGHT: 5px
+}
+#index-book P {
+	WIDTH: 100%; FLOAT: left
+}
+#index-book2 P {
+	WIDTH: 100%; FLOAT: left
+}
+#frm-detail P {
+	WIDTH: 100%; FLOAT: left
+}
+#index-book SELECT {
+	FONT: 11px tahoma; FLOAT: right; COLOR: black; MARGIN-RIGHT: 5px
+}
+#index-book2 SELECT {
+	FONT: 11px tahoma; FLOAT: right; COLOR: black; MARGIN-RIGHT: 5px
+}
+#frm-detail SELECT {
+	FONT: 11px tahoma; FLOAT: right; COLOR: black; MARGIN-RIGHT: 5px
+}
+#index-book2 SELECT {
+	FLOAT: none
+}
+#frm-detail SELECT {
+	FLOAT: none
+}
+#index-book2 FIELDSET {
+	PADDING-BOTTOM: 0px; MARGIN: 10px 0px 0px 10px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-TOP: #ccc 1px solid; PADDING-TOP: 5px
+}
+#index-book FIELDSET.passenger {
+	MARGIN: 0px 0px 0px 20px; DISPLAY: none; BORDER-TOP: medium none
+}
+#index-book2 FIELDSET.passenger {
+	MARGIN: 0px 0px 0px 20px; DISPLAY: none; BORDER-TOP: medium none
+}
+#frm-detail FIELDSET.passenger {
+	MARGIN: 0px 0px 0px 20px; DISPLAY: none; BORDER-TOP: medium none
+}
+#index-book FIELDSET.passenger {
+	TEXT-ALIGN: left; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+#index-book FIELDSET.passenger LEGEND {
+	TEXT-ALIGN: left; MARGIN: 0px
+}
+#index-book FIELDSET.passenger {
+	MARGIN: 0px 0px 0px 20px; DISPLAY: none; BORDER-TOP: medium none
+}
+#index-book2 FIELDSET.passenger {
+	MARGIN: 0px 0px 0px 20px; DISPLAY: none; BORDER-TOP: medium none
+}
+#frm-detail FIELDSET.passenger {
+	MARGIN: 0px 0px 0px 20px; DISPLAY: none; BORDER-TOP: medium none
+}
+#index-book FIELDSET.passenger P {
+	TEXT-ALIGN: center; WIDTH: 45%; FLOAT: left
+}
+#index-book2 FIELDSET.passenger P {
+	TEXT-ALIGN: center; WIDTH: 45%; FLOAT: left
+}
+#frm-detail FIELDSET.passenger P {
+	TEXT-ALIGN: center; WIDTH: 45%; FLOAT: left
+}
+#index-book2 FIELDSET.passenger P {
+	WIDTH: 20%
+}
+#index-book FIELDSET.passenger LABEL {
+	WIDTH: 100%; FLOAT: none
+}
+#index-book2 FIELDSET.passenger LABEL {
+	WIDTH: 100%; FLOAT: none
+}
+#frm-detail FIELDSET.passenger LABEL {
+	WIDTH: 100%; FLOAT: none
+}
+#index-book FIELDSET.passenger SELECT {
+	FONT: 11px tahoma; FLOAT: none; COLOR: black
+}
+#index-book2 FIELDSET.passenger SELECT {
+	FONT: 11px tahoma; FLOAT: none; COLOR: black
+}
+#frm-detail SELECT {
+	FONT: 11px tahoma; FLOAT: none; COLOR: black
+}
+#index-book SELECT.leftsmall {
+	MARGIN-RIGHT: 35px
+}
+#index-book2 SELECT.leftsmall {
+	MARGIN-RIGHT: 35px
+}
+#frm-detail SELECT.leftsmall {
+	MARGIN-RIGHT: 35px
+}
+#index-book FORM {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+#index-book2 FORM {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+#index-book #hotel_country FIELDSET {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+#index-book2 #hotel_country FIELDSET {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+#hotel_hc {
+	DISPLAY: none; MARGIN-BOTTOM: 10px
+}
+#hotel_sb {
+	DISPLAY: none; MARGIN-BOTTOM: 10px
+}
+#index-book2 #hotel_country FIELDSET {
+	PADDING-BOTTOM: 0px; MARGIN: 10px 0px 0px 10px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-TOP: #ccc 1px solid; PADDING-TOP: 5px
+}
+#index-book2 #frm_group LABEL {
+	WIDTH: 130px; DISPLAY: block; FLOAT: left
+}
+#frm_payment LABEL {
+	WIDTH: 130px; DISPLAY: block; FLOAT: left
+}
+#index-book2 INPUT {
+	PADDING-LEFT: 2px; WIDTH: 150px; FONT: 11px Tahoma,Arial, Helvetica, sans-serif
+}
+#index-book2 .checkbox INPUT {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-TOP: medium none; BORDER-RIGHT: medium none
+}
+#index-book2 INPUT.button {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-TOP: medium none; BORDER-RIGHT: medium none
+}
+#index-book2 .checkbox LABEL {
+	WIDTH: auto
+}
+#index-book2 .checkbox INPUT {
+	WIDTH: auto
+}
+#index-book2 LABEL {
+	LINE-HEIGHT: 190%
+}
+#index-book2 INPUT {
+	BORDER-BOTTOM: #ccc 1px solid; BORDER-LEFT: #ccc 1px solid; BORDER-TOP: #ccc 1px solid; BORDER-RIGHT: #ccc 1px solid
+}
+#index-book2 TEXTAREA {
+	BORDER-BOTTOM: #ccc 1px solid; BORDER-LEFT: #ccc 1px solid; BORDER-TOP: #ccc 1px solid; BORDER-RIGHT: #ccc 1px solid
+}
+#index-book2 .error {
+	COLOR: #cc0033
+}
+#hotel_hc FIELDSET.no P {
+	TEXT-ALIGN: right
+}
+EM {
+	COLOR: #cc0033
+}
+FIELDSET.no INPUT {
+	WIDTH: 60px
+}
+DIV.feature P {
+	WIDTH: 100%; MARGIN-LEFT: 2px
+}
+#index-book FIELDSET.passenger {
+	TEXT-ALIGN: left; MARGIN-LEFT: 0px
+}
+#index-book2 FIELDSET.passenger {
+	TEXT-ALIGN: left; MARGIN-LEFT: 0px
+}
+#index-book FIELDSET.passenger P.another {
+	TEXT-ALIGN: left; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: 100%; PADDING-RIGHT: 0px; FLOAT: left; PADDING-TOP: 0px
+}
+#hotel_hc #y {
+	WIDTH: 50px
+}
+#hotel_country P.left {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+#hotel_hc P.left {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+#hotel_country P.left SELECT {
+	PADDING-BOTTOM: 0px; MARGIN: 0px 0px 10px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FLOAT: left; PADDING-TOP: 0px
+}
+#hotel_hc P.left SELECT {
+	PADDING-BOTTOM: 0px; MARGIN: 0px 0px 10px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FLOAT: left; PADDING-TOP: 0px
+}
